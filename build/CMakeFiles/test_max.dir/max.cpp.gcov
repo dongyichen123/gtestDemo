@@ -1,0 +1,8 @@
+        -:    0:Source:D:/codes/gtestDemo/max.cpp
+        -:    0:Graph:max.cpp.gcno
+        -:    0:Data:max.cpp.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        1:    1:int max(int a,int b){
+       1*:    2:    return a>b?a:b;
+        -:    3:}

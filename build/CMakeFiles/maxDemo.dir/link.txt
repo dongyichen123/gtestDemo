@@ -1,0 +1,3 @@
+D:\bin\cmake.exe -E rm -f CMakeFiles\maxDemo.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe qc CMakeFiles\maxDemo.dir/objects.a @CMakeFiles\maxDemo.dir\objects1.rsp
+D:\MinGW\mingw64\bin\g++.exe -g --coverage -Wl,--whole-archive CMakeFiles\maxDemo.dir/objects.a -Wl,--no-whole-archive -o maxDemo.exe -Wl,--out-implib,libmaxDemo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\maxDemo.dir\linkLibs.rsp
